@@ -1,840 +1,830 @@
-,gender,programming,statistics
-0,Male,8,6
-1,Male,7,7
-2,Male,9,9
-3,Male,9,7
-4,Decline to answer,8,9
-5,Male,4,2
-6,Male,4,7
-7,Male,10,8
-10,Male,10,10
-11,Male,5,7
-12,Male,7,6
-13,Male,10,6
-16,Female,5,6
-17,Female,10,2
-18,Male,7,4
-19,Male,10,8
-20,Female,4,7
-21,Male,8,8
-22,Female,3,5
-23,Male,9,6
-24,Female,6,5
-25,Female,6,6
-26,Male,3,4
-27,Male,5,8
-28,Male,10,6
-29,Male,6,5
-30,Female,5,5
-31,Male,3,5
-32,Male,5,5
-33,Female,10,10
-34,Female,5,6
-35,Female,8,7
-36,Male,5,6
-37,Female,6,8
-38,Male,10,6
-39,Male,7,6
-40,Female,4,7
-41,Male,8,4
-42,Female,5,5
-43,Female,8,5
-44,Male,9,5
-45,Male,7,3
-46,Nonbinary,6,6
-47,Female,7,7
-48,Male,6,5
-49,Female,8,7
-50,Male,7,6
-51,Male,10,6
-52,Female,7,6
-53,Female,8,4
-54,Female,5,7
-55,Female,7,6
-56,Male,9,9
-57,Male,8,8
-58,Female,8,9
-59,Female,3,7
-60,Male,7,5
-61,Female,3,6
-62,Male,10,7
-63,Male,9,7
-64,Male,8,8
-65,Male,8,4
-66,Female,5,5
-67,Male,8,7
-68,Nonbinary,3,4
-69,Female,7,6
-70,Female,7,7
-71,Male,8,6
-72,Female,9,7
-73,Female,9,7
-74,Male,9,7
-75,Female,4,7
-76,Male,5,7
-77,Female,5,5
-78,Male,8,7
-79,Male,6,3
-80,Female,2,7
-81,Female,7,6
-82,Male,6,4
-83,Female,5,4
-84,Female,8,6
-85,Male,8,4
-86,Male,9,7
-87,Male,9,8
-88,Female,8,6
-89,Female,4,5
-90,Male,9,5
-91,Female,5,5
-92,Male,7,8
-93,Female,3,3
-94,Female,7,5
-95,Nonbinary,6,4
-98,Male,8,5
-99,Male,4,4
-100,Male,9,4
-101,Female,3,7
-102,Male,5,6
-103,Male,4,4
-104,Female,4,7
-105,Male,4,6
-106,Male,5,4
-107,Female,7,8
-108,Male,7,7
-109,Male,7,5
-110,Male,8,6
-111,Male,10,7
-112,Female,9,6
-113,Male,10,3
-114,Male,9,5
-115,Female,4,6
-116,Female,4,5
-117,Male,9,6
-119,Female,7,3
-120,Female,5,8
-121,Female,8,8
-122,Female,3,7
-123,Male,4,7
-124,Male,6,6
-125,Male,8,7
-126,Male,5,5
-127,Male,6,7
-128,Male,8,7
-129,Female,9,6
-130,Male,9,8
-131,Male,5,5
-132,Male,7,7
-133,Male,8,7
-134,Male,9,7
-135,Female,5,3
-136,Male,8,4
-137,Male,7,8
-138,Male,10,7
-139,Male,7,6
-140,Female,7,9
-141,Female,8,8
-142,Male,9,7
-143,Female,8,6
-144,Male,6,6
-145,Female,7,8
-146,Male,7,8
-147,Female,7,7
-148,Male,7,7
-149,Female,6,6
-150,Female,7,9
-151,Female,8,6
-152,Nonbinary,3,5
-153,Female,4,6
-154,Male,9,8
-155,Male,10,10
-156,Male,8,5
-157,Female,4,6
-158,Male,5,5
-159,Female,5,8
-160,Female,5,7
-161,Female,7,5
-162,Male,8,7
-163,Male,7,6
-164,Female,4,6
-165,Male,7,8
-166,Male,8,8
-167,Nonbinary,6,7
-168,Female,8,8
-169,Female,9,5
-170,Female,10,8
-171,Male,9,5
-172,Male,9,8
-173,Female,4,7
-174,Male,10,7
-175,Male,5,7
-176,Male,6,6
-177,Male,10,5
-178,Female,8,6
-179,Female,5,5
-180,Male,10,8
-181,Female,8,8
-182,Female,10,6
-183,Male,7,3
-184,Male,8,7
-185,Male,7,8
-186,Male,5,9
-187,Male,8,5
-189,Male,10,5
-191,Male,8,5
-192,Male,5,5
-194,Female,8,6
-195,Male,10,10
-196,Male,6,6
-197,Female,4,2
-198,Female,8,7
-199,Male,6,10
-200,Male,7,6
-201,Male,10,9
-202,Male,8,6
-203,Female,9,7
-204,Female,8,8
-205,Male,7,8
-206,Male,6,3
-207,Female,5,7
-208,Female,5,7
-209,Male,8,4
-210,Male,9,5
-211,Male,2,1
-212,Female,6,7
-213,Female,5,7
-215,Female,7,8
-216,Male,4,4
-218,Male,9,8
-219,Female,4,7
-220,Male,4,7
-221,Female,4,6
-222,Female,6,4
-223,Female,5,5
-224,Male,8,6
-226,Female,5,5
-227,Male,10,8
-228,Male,7,8
-229,Male,7,7
-230,Female,5,5
-231,Male,8,8
-232,Female,7,5
-233,Male,7,3
-234,Male,9,6
-235,Female,3,4
-236,Male,5,7
-237,Male,8,3
-238,Female,10,7
-239,Male,9,6
-241,Female,7,5
-242,Male,8,8
-243,Male,5,3
-244,Female,10,6
-245,Female,3,1
-246,Male,8,6
-247,Female,8,9
-248,Male,6,10
-249,Female,5,6
-250,Male,5,5
-251,Male,4,6
-252,Decline to answer,10,5
-253,Male,5,6
-254,Female,5,2
-255,Male,8,7
-256,Female,5,4
-257,Male,10,5
-259,Female,7,6
-260,Male,8,6
-261,Male,7,8
-263,Male,8,8
-264,Female,7,8
-265,Female,2,7
-267,Female,5,5
-268,Male,7,6
-269,Male,8,8
-270,Male,6,6
-271,Male,8,5
-272,Female,6,7
-273,Female,3,1
-274,Male,6,6
-276,Male,6,6
-277,Male,3,7
-278,Female,4,4
-279,Female,8,5
-280,Male,5,5
-281,Male,9,7
-282,Female,2,4
-283,Male,5,5
-284,Male,6,5
-285,Male,10,6
-286,Female,8,4
-287,Female,8,8
-288,Female,7,7
-289,Female,10,10
-290,Male,8,5
-291,Male,7,5
-292,Male,5,5
-293,Female,10,5
-294,Male,7,4
-295,Male,10,8
-296,Male,4,4
-297,Male,7,8
-298,Female,5,6
-299,Female,7,5
-300,Female,7,8
-301,Female,4,7
-302,Female,5,8
-303,Female,5,10
-304,Female,4,7
-305,Male,7,6
-306,Nonbinary,7,6
-307,Male,8,5
-308,Female,5,7
-309,Female,7,7
-310,Female,5,5
-311,Male,7,6
-312,Male,4,7
-313,Female,6,8
-314,Female,5,6
-316,Male,6,6
-317,Female,8,7
-318,Male,3,7
-319,Male,9,9
-320,Female,4,7
-321,Female,5,8
-322,Male,8,6
-323,Male,6,3
-324,Male,8,8
-325,Female,4,4
-326,Male,3,2
-327,Female,5,5
-328,Female,6,6
-329,Male,6,8
-330,Male,6,2
-331,Female,2,6
-332,Female,8,4
-333,Female,5,7
-334,Male,7,7
-335,Male,7,7
-336,Male,8,7
-337,Male,9,6
-338,Male,8,7
-339,Male,4,5
-340,Female,6,7
-341,Male,7,7
-343,Male,5,6
-344,Male,9,8
-345,Male,10,10
-346,Female,4,7
-347,Male,9,8
-348,Male,9,8
-349,Female,5,5
-351,Female,8,7
-352,Female,2,3
-354,Female,5,8
-355,Female,2,2
-356,Male,7,9
-357,Female,4,7
-358,Male,5,7
-359,Male,9,8
-360,Male,9,8
-361,Male,10,8
-362,Male,6,8
-363,Female,4,6
-364,Female,9,7
-365,Male,9,8
-366,Female,8,6
-367,Male,8,3
-368,Male,7,6
-369,Female,8,7
-370,Male,3,5
-371,Male,3,5
-372,Male,7,7
-373,Female,8,7
-374,Female,7,7
-375,Female,5,2
-376,Male,4,4
-377,Male,5,5
-378,Female,3,5
-379,Female,4,4
-380,Male,10,3
-381,Male,7,6
-382,Male,10,10
-383,Male,8,6
-384,Male,4,4
-385,Female,5,5
-386,Male,8,8
-387,Female,3,4
-388,Male,4,8
-389,Male,8,5
-390,Male,8,7
-391,Female,6,7
-392,Female,8,5
-394,Female,9,7
-395,Male,10,8
-396,Female,7,8
-397,Male,3,5
-398,Male,7,6
-399,Male,8,8
-400,Female,7,7
-401,Male,7,7
-403,Male,8,8
-404,Female,4,5
-405,Female,4,8
-406,Male,8,6
-407,Female,8,6
-408,Male,7,7
-409,Male,7,7
-410,Male,6,8
-411,Female,2,8
-412,Nonbinary,3,6
-413,Female,5,9
-414,Female,10,10
-415,Female,10,7
-416,Female,7,6
-417,Male,9,8
-418,Female,5,7
-419,Male,7,6
-420,Female,2,3
-421,Female,2,6
-422,Female,6,7
-423,Decline to answer,5,6
-424,Female,5,3
-425,Female,8,5
-426,Female,4,6
-427,Female,9,7
-428,Female,3,3
-429,Female,3,6
-430,Nonbinary,4,5
-431,Male,5,7
-432,Female,6,5
-433,Male,7,4
-434,Female,4,7
-435,Female,5,5
-436,Male,7,5
-437,Male,9,8
-438,Male,9,6
-439,Female,9,7
-440,Female,7,8
-442,Female,10,5
-443,Female,4,4
-444,Female,5,9
-445,Female,9,8
-446,Male,5,3
-447,Male,8,7
-448,Female,3,3
-449,Male,8,5
-451,Female,7,7
-452,Male,5,5
-453,Female,7,6
-454,Male,7,8
-455,Male,4,5
-456,Male,5,5
-457,Male,10,8
-458,Female,6,6
-459,Decline to answer,9,7
-460,Male,5,7
-461,Female,4,7
-462,Male,9,9
-463,Female,4,8
-464,Female,6,5
-465,Male,7,5
-466,Female,4,6
-467,Female,7,5
-468,Female,7,8
-469,Female,6,6
-470,Female,2,5
-471,Female,3,7
-472,Male,5,5
-473,Male,10,10
-474,Male,10,5
-475,Female,4,6
-476,Male,9,6
-477,Female,3,6
-478,Female,2,5
-479,Male,5,5
-480,Female,7,8
-481,Female,6,7
-483,Male,4,7
-484,Female,10,3
-485,Male,7,9
-486,Male,10,5
-487,Female,8,5
-488,Female,6,8
-489,Female,5,6
-490,Female,3,6
-491,Female,4,6
-492,Male,3,4
-493,Female,10,10
-494,Male,8,9
-495,Female,10,8
-496,Male,3,4
-497,Male,9,8
-498,Male,7,7
-499,Female,8,5
-500,Female,5,7
-501,Male,8,8
-502,Female,7,7
-503,Male,5,7
-504,Male,8,7
-505,Female,8,7
-506,Male,8,7
-507,Female,5,3
-508,Male,8,10
-509,Female,6,5
-510,Male,6,4
-511,Female,5,5
-512,Nonbinary,3,5
-513,Male,4,4
-514,Female,6,2
-515,Male,7,6
-516,Male,10,10
-517,Male,4,4
-518,Female,6,2
-519,Male,8,8
-520,Male,8,5
-521,Male,9,6
-522,Male,8,6
-523,Male,7,5
-525,Female,4,5
-526,Male,7,4
-528,Male,5,4
-529,Female,2,8
-530,Male,7,7
-531,Male,6,3
-532,Male,8,7
-533,Male,8,7
-534,Female,6,6
-535,Female,7,5
-536,Female,6,3
-537,Female,5,7
-538,Male,10,8
-539,Female,3,4
-540,Male,8,5
-541,Male,7,5
-542,Male,7,6
-543,Male,9,6
-544,Female,4,5
-545,Male,7,6
-546,Female,9,8
-547,Female,3,5
-548,Female,5,8
-549,Male,8,5
-551,Female,6,1
-552,Female,5,5
-553,Male,7,4
-554,Female,7,8
-555,Female,9,9
-556,Male,5,5
-557,Female,6,3
-558,Male,10,6
-559,Male,4,7
-560,Male,7,7
-561,Male,2,1
-562,Female,5,7
-563,Female,8,4
-564,Female,7,6
-565,Male,5,4
-566,Female,7,4
-567,Female,5,4
-568,Male,2,5
-569,Male,7,6
-570,Male,7,5
-571,Female,5,8
-572,Male,7,7
-573,Male,9,7
-574,Male,9,6
-575,Male,6,8
-576,Female,3,6
-577,Male,3,6
-578,Male,10,8
-579,Female,10,5
-580,Female,5,5
-581,Male,7,5
-582,Male,5,4
-583,Female,5,8
-584,Male,5,7
-585,Female,3,4
-586,Male,6,5
-587,Male,6,9
-588,Male,6,4
-589,Male,6,9
-590,Female,9,3
-591,Female,3,6
-592,Female,6,7
-593,Female,2,5
-594,Female,6,7
-595,Male,8,8
-596,Male,9,5
-597,Female,5,7
-598,Male,4,4
-600,Male,9,7
-601,Male,10,7
-602,Male,7,7
-603,Female,10,9
-604,Female,8,6
-606,Male,10,8
-607,Male,9,6
-608,Male,7,5
-609,Female,8,8
-610,Female,7,8
-611,Female,10,6
-612,Male,10,10
-613,Male,3,4
-614,Male,6,4
-615,Male,5,5
-616,Female,3,6
-617,Female,7,4
-618,Male,7,8
-619,Male,9,8
-620,Male,10,8
-621,Female,7,6
-622,Female,9,8
-623,Female,5,3
-624,Male,6,7
-625,Female,6,4
-626,Decline to answer,4,6
-627,Male,7,7
-628,Female,8,7
-629,Male,10,9
-630,Male,6,4
-631,Female,7,5
-632,Female,5,7
-633,Female,8,6
-634,Female,8,5
-635,Female,2,4
-636,Male,8,6
-637,Female,6,6
-638,Female,3,4
-639,Male,9,5
-640,Female,6,4
-641,Female,7,7
-642,Male,6,7
-643,Male,10,9
-644,Female,9,8
-645,Male,7,7
-646,Female,8,7
-647,Male,8,6
-648,Male,6,6
-649,Male,8,8
-651,Female,8,7
-652,Female,6,6
-653,Male,7,6
-654,Female,3,5
-655,Female,3,5
-656,Female,4,7
-658,Male,5,3
-659,Male,8,8
-660,Male,6,7
-661,Female,7,3
-662,Female,9,9
-663,Male,7,1
-664,Male,9,7
-665,Male,8,7
-666,Male,6,7
-667,Female,4,5
-668,Female,6,6
-669,Male,8,7
-670,Male,4,5
-671,Female,7,3
-672,Male,10,7
-673,Male,10,6
-674,Male,7,7
-675,Female,10,10
-676,Male,7,3
-677,Male,10,5
-678,Male,8,1
-679,Male,10,5
-680,Female,7,5
-681,Male,4,5
-682,Nonbinary,6,5
-683,Male,6,9
-684,Male,5,4
-685,Male,4,2
-686,Female,7,7
-687,Male,6,6
-688,Male,8,4
-689,Male,3,5
-690,Decline to answer,5,4
-691,Male,10,7
-692,Male,6,8
-693,Female,8,5
-694,Female,9,8
-695,Male,9,6
-696,Male,7,8
-697,Male,10,7
-699,Male,7,7
-700,Female,8,7
-701,Male,10,6
-703,Male,10,6
-704,Female,2,3
-705,Male,10,7
-706,Female,5,6
-707,Female,5,6
-708,Male,8,8
-709,Female,8,8
-710,Female,5,8
-711,Female,6,6
-712,Male,6,8
-713,Male,8,7
-714,Male,7,8
-715,Female,7,5
-716,Female,5,9
-718,Nonbinary,7,6
-719,Male,4,2
-721,Female,7,7
-722,Female,4,4
-723,Nonbinary,4,4
-724,Female,2,8
-725,Male,10,6
-726,Male,7,8
-727,Female,6,8
-728,Female,8,7
-729,Female,6,6
-730,Female,3,3
-731,Male,7,7
-732,Male,6,6
-733,Male,5,3
-734,Male,10,5
-735,Female,6,7
-736,Female,5,9
-737,Male,5,5
-738,Male,10,10
-739,Female,4,7
-740,Female,2,8
-741,Female,5,2
-742,Male,8,8
-743,Nonbinary,3,3
-744,Male,7,8
-745,Female,4,5
-746,Female,7,7
-747,Female,3,5
-748,Male,9,6
-749,Male,4,4
-750,Male,8,5
-752,Female,5,4
-753,Nonbinary,4,7
-754,Male,7,4
-755,Male,7,8
-756,Female,3,8
-757,Male,5,3
-758,Female,6,6
-760,Female,6,4
-761,Female,7,6
-763,Female,2,3
-764,Female,7,6
-765,Female,5,5
-766,Male,8,7
-767,Male,8,8
-768,Male,8,6
-769,Female,6,6
-770,Female,5,3
-771,Female,7,7
-772,Male,7,6
-773,Female,6,4
-774,Male,5,5
-775,Male,1,1
-776,Male,8,10
-777,Female,4,6
-778,Female,5,7
-779,Male,3,4
-780,Female,2,1
-781,Male,8,8
-783,Female,5,7
-784,Female,10,6
-785,Male,8,8
-786,Male,7,5
-787,Male,8,5
-788,Male,6,4
-789,Male,2,3
-790,Male,5,4
-791,Female,3,7
-792,Female,7,6
-793,Female,3,7
-794,Female,4,5
-795,Male,10,8
-796,Female,8,4
-797,Male,8,6
-798,Male,5,6
-799,Male,5,6
-800,Female,5,7
-801,Female,2,3
-802,Female,8,4
-803,Female,6,9
-804,Male,9,4
-805,Female,5,5
-806,Male,9,7
-807,Male,9,5
-808,Male,3,5
-809,Male,10,10
-810,Female,3,8
-811,Female,7,5
-812,Female,7,7
-813,Male,4,4
-814,Female,4,3
-815,Female,7,6
-816,Male,5,7
-817,Male,10,8
-818,Female,8,8
-820,Male,6,3
-821,Female,7,7
-822,Female,5,6
-823,Male,3,7
-824,Male,5,6
-825,Female,8,8
-826,Female,4,7
-827,Female,7,2
-828,Male,4,5
-829,Male,10,10
-830,Female,3,7
-831,Female,4,4
-832,Male,10,9
-833,Female,4,4
-834,Male,6,7
-835,Female,10,10
-836,Female,6,4
-838,Male,3,3
-839,Female,7,6
-840,Male,7,7
-842,Female,6,6
-844,Female,6,6
-845,Male,10,8
-846,Female,6,3
-847,Female,6,4
-848,Female,7,8
-849,Male,7,5
-850,Female,7,4
-851,Male,6,6
-852,Male,6,7
-854,Male,10,8
-855,Male,8,4
-856,Nonbinary,4,7
-857,Male,6,6
-858,Female,4,5
-859,Female,6,9
-861,Female,7,6
-862,Male,7,6
-863,Male,6,6
-864,Male,7,7
-865,Male,6,5
-866,Female,5,4
-867,Female,3,1
-868,Male,4,4
-869,Female,5,5
-870,Female,10,10
-871,Male,8,7
-872,Female,4,7
-873,Male,6,7
-874,Female,4,4
-875,Female,6,6
-876,Male,3,4
-877,Female,4,5
-878,Male,5,3
-879,Male,4,7
-881,Male,4,6
-882,Female,7,6
-883,Male,7,5
-884,Male,8,7
-885,Male,5,3
-886,Male,9,3
-887,Female,2,4
+,gender,major,programming,statistics,Java,MATLAB,Python,R,none,other
+1,Male,Mathematics,7,7,1,1,1,1,0,0
+2,Male,Data Science,9,9,1,0,1,0,0,0
+3,Male,Mathematics,9,7,1,0,1,0,0,0
+4,Decline to answer,Data Science,8,9,1,0,1,0,0,0
+5,Male,Computer Science and Engineering,4,2,1,0,1,0,0,0
+6,Male,Cognitive Science,4,7,0,0,1,0,0,0
+7,Male,Mathematics,10,8,1,1,1,0,0,0
+10,Male,Mathematics,10,10,1,0,1,1,0,0
+11,Male,Economics,5,7,0,0,0,0,1,0
+12,Male,"Other engineering (BE, MAE, SE, etc)",7,6,0,1,1,0,0,0
+13,Male,Computer Science and Engineering,10,6,1,1,1,0,0,0
+16,Female,Data Science,5,6,1,0,1,1,0,0
+17,Female,Computer Science and Engineering,10,2,0,0,1,0,0,0
+18,Male,Mathematics,7,4,1,1,1,0,0,0
+19,Male,Computer Science and Engineering,10,8,1,1,1,0,0,0
+20,Female,Cognitive Science,4,7,0,0,1,0,0,0
+21,Male,Cognitive Science,8,8,1,1,1,0,0,0
+22,Female,Cognitive Science,3,5,0,1,0,0,0,0
+23,Male,Cognitive Science,9,6,1,1,1,1,0,0
+24,Female,Electrical and Computer Engineering,6,5,0,1,0,0,0,0
+25,Female,Cognitive Science,6,6,1,0,1,0,0,0
+26,Male,Cognitive Science,3,4,0,1,1,0,0,0
+27,Male,Economics,5,8,0,0,1,0,0,0
+28,Male,Computer Science and Engineering,10,6,1,0,1,0,0,0
+29,Male,Data Science,6,5,1,0,1,0,0,0
+30,Female,Cognitive Science,5,5,0,0,1,0,0,0
+31,Male,Mathematics,3,5,0,0,0,0,1,0
+32,Male,Cognitive Science,5,5,0,0,1,0,0,0
+33,Female,Cognitive Science,10,10,1,1,1,0,0,0
+34,Female,Cognitive Science,5,6,0,1,1,0,0,0
+35,Female,"Other STEM (sorry, until now not many of our students have come from your degree!)",8,7,1,1,1,0,0,0
+36,Male,"Other STEM (sorry, until now not many of our students have come from your degree!)",5,6,1,1,0,0,0,0
+37,Female,Cognitive Science,6,8,0,1,1,0,0,0
+38,Male,Mathematics,10,6,1,0,1,0,0,0
+39,Male,Cognitive Science,7,6,1,1,1,0,0,0
+40,Female,Psychology,4,7,0,0,0,0,0,1
+41,Male,Computer Science and Engineering,8,4,1,0,1,0,0,0
+42,Female,Cognitive Science,5,5,0,0,1,0,1,0
+43,Female,Data Science,8,5,0,0,1,0,0,0
+44,Male,Data Science,9,5,1,0,1,0,0,0
+45,Male,Cognitive Science,7,3,1,0,1,1,0,0
+46,Nonbinary,Psychology,6,6,0,0,1,1,0,0
+47,Female,Cognitive Science,7,7,1,0,1,0,0,0
+48,Male,"Other engineering (BE, MAE, SE, etc)",6,5,0,1,1,0,0,0
+49,Female,Data Science,8,7,0,0,1,0,0,0
+50,Male,Data Science,7,6,1,0,1,0,0,0
+51,Male,Mathematics,10,6,1,0,0,0,0,0
+52,Female,Political Science,7,6,0,0,1,1,0,0
+53,Female,Mathematics,8,4,1,1,0,0,0,0
+54,Female,Mathematics,5,7,1,0,1,0,0,0
+55,Female,Data Science,7,6,1,1,1,1,0,0
+56,Male,Data Science,9,9,1,0,1,1,0,0
+57,Male,Cognitive Science,8,8,0,0,1,0,0,0
+58,Female,Data Science,8,9,0,0,1,0,0,0
+59,Female,Cognitive Science,3,7,0,0,0,0,1,0
+60,Male,Cognitive Science,7,5,1,0,1,0,0,0
+61,Female,Cognitive Science,3,6,0,0,0,0,1,0
+62,Male,Mathematics,10,7,1,1,1,1,0,0
+63,Male,Data Science,9,7,1,0,1,1,0,0
+64,Male,Data Science,8,8,1,0,1,0,0,0
+65,Male,Cognitive Science,8,4,1,0,1,0,0,1
+66,Female,Cognitive Science,5,5,0,0,1,0,0,0
+67,Male,Data Science,8,7,0,1,1,1,0,0
+68,Nonbinary,Cognitive Science,3,4,0,1,1,0,1,0
+69,Female,Computer Science and Engineering,7,6,0,1,1,1,0,0
+70,Female,Cognitive Science,7,7,0,0,1,0,0,0
+71,Male,Computer Science and Engineering,8,6,1,0,1,0,0,0
+72,Female,Cognitive Science,9,7,1,1,1,0,0,0
+73,Female,Computer Science and Engineering,9,7,1,0,1,0,0,0
+74,Male,Mathematics,9,7,1,0,1,0,0,0
+75,Female,Cognitive Science,4,7,0,1,1,0,0,0
+76,Male,Economics,5,7,0,1,1,1,0,0
+77,Female,"Other engineering (BE, MAE, SE, etc)",5,5,1,1,1,0,0,0
+78,Male,Cognitive Science,8,7,0,0,1,0,0,0
+79,Male,Computer Science and Engineering,6,3,1,0,0,0,0,1
+80,Female,Cognitive Science,2,7,0,0,0,0,1,0
+81,Female,Cognitive Science,7,6,1,0,1,0,0,0
+82,Male,Computer Science and Engineering,6,4,1,0,1,0,0,0
+83,Female,Cognitive Science,5,4,0,0,1,0,0,0
+84,Female,Cognitive Science,8,6,0,0,1,0,0,0
+85,Male,Mathematics,8,4,1,0,1,0,0,0
+86,Male,Cognitive Science,9,7,1,0,0,0,0,0
+87,Male,Data Science,9,8,1,1,1,1,0,0
+88,Female,Data Science,8,6,1,0,1,0,0,0
+89,Female,Cognitive Science,4,5,0,0,0,0,1,0
+90,Male,Mathematics,9,5,1,1,1,0,0,0
+91,Female,Cognitive Science,5,5,0,0,1,0,0,0
+92,Male,Economics,7,8,1,1,1,0,0,0
+93,Female,"Other liberal arts (sorry, until now not many of our students have come from your degree!)",3,3,0,0,1,0,0,0
+94,Female,Cognitive Science,7,5,1,0,0,0,0,0
+95,Nonbinary,Cognitive Science,6,4,0,0,1,0,0,0
+98,Male,Computer Science and Engineering,8,5,1,0,1,0,0,0
+99,Male,Mathematics,4,4,0,0,0,0,1,0
+100,Male,Cognitive Science,9,4,1,1,1,0,0,0
+101,Female,Cognitive Science,3,7,0,0,0,0,1,0
+102,Male,Cognitive Science,5,6,0,1,1,0,0,0
+103,Male,Cognitive Science,4,4,0,1,1,0,0,0
+104,Female,Computer Science and Engineering,4,7,0,0,0,0,0,1
+105,Male,Cognitive Science,4,6,0,0,1,0,0,0
+106,Male,Cognitive Science,5,4,0,0,1,0,0,0
+107,Female,Cognitive Science,7,8,1,0,1,0,0,0
+108,Male,Data Science,7,7,1,0,1,0,0,0
+109,Male,Mathematics,7,5,1,0,1,0,0,0
+110,Male,Cognitive Science,8,6,1,0,1,0,0,0
+111,Male,Mathematics,10,7,1,0,1,0,0,0
+112,Female,Data Science,9,6,1,0,1,0,0,0
+113,Male,Computer Science and Engineering,10,3,0,0,1,0,0,0
+114,Male,Computer Science and Engineering,9,5,1,1,1,0,0,0
+115,Female,Cognitive Science,4,6,0,1,1,0,0,0
+116,Female,Biology,4,5,0,0,1,1,0,0
+117,Male,Electrical and Computer Engineering,9,6,1,0,0,0,0,0
+119,Female,"Other STEM (sorry, until now not many of our students have come from your degree!)",7,3,1,0,1,0,0,0
+120,Female,Cognitive Science,5,8,0,1,1,0,0,0
+121,Female,Biology,8,8,0,0,1,1,0,0
+122,Female,Cognitive Science,3,7,0,0,0,0,1,0
+123,Male,Cognitive Science,4,7,1,0,1,0,0,0
+124,Male,Economics,6,6,0,1,1,0,0,0
+125,Male,Computer Science and Engineering,8,7,1,1,1,1,0,0
+126,Male,Cognitive Science,5,5,1,0,1,0,0,0
+127,Male,Cognitive Science,6,7,1,0,1,0,0,0
+128,Male,Computer Science and Engineering,8,7,1,1,1,0,0,0
+129,Female,Mathematics,9,6,1,1,1,1,0,0
+130,Male,Data Science,9,8,1,0,1,1,0,0
+131,Male,Cognitive Science,5,5,0,0,0,0,1,0
+132,Male,Mathematics,7,7,0,0,1,0,0,0
+133,Male,Mathematics,8,7,1,1,1,0,0,0
+134,Male,Computer Science and Engineering,9,7,1,1,1,0,0,0
+135,Female,Cognitive Science,5,3,0,1,1,0,0,0
+136,Male,Cognitive Science,8,4,0,1,1,0,0,0
+137,Male,Computer Science and Engineering,7,8,1,0,1,1,0,0
+138,Male,Mathematics,10,7,1,1,1,1,0,0
+139,Male,Data Science,7,6,0,0,1,0,0,0
+140,Female,Cognitive Science,7,9,1,0,0,0,0,0
+141,Female,Mathematics,8,8,1,1,1,1,0,0
+142,Male,Mathematics,9,7,1,0,1,1,0,0
+143,Female,Computer Science and Engineering,8,6,1,1,1,0,0,0
+144,Male,Cognitive Science,6,6,1,0,1,0,0,0
+145,Female,Mathematics,7,8,0,1,1,1,0,0
+146,Male,Cognitive Science,7,8,0,1,1,0,0,0
+147,Female,Mathematics,7,7,1,1,1,0,0,0
+148,Male,Data Science,7,7,1,1,1,0,0,0
+149,Female,Cognitive Science,6,6,0,0,1,0,0,0
+150,Female,Data Science,7,9,0,0,1,0,0,0
+151,Female,Computer Science and Engineering,8,6,1,0,1,0,0,0
+152,Nonbinary,Cognitive Science,3,5,0,0,1,0,0,0
+153,Female,Cognitive Science,4,6,0,0,1,0,0,0
+154,Male,Cognitive Science,9,8,1,1,0,1,0,0
+155,Male,Mathematics,10,10,1,1,1,1,0,0
+156,Male,Mathematics,8,5,1,0,1,0,0,0
+157,Female,Cognitive Science,4,6,0,0,0,0,1,0
+158,Male,Data Science,5,5,0,0,1,0,0,0
+159,Female,Mathematics,5,8,1,1,0,0,0,0
+160,Female,Biology,5,7,0,0,0,0,1,0
+161,Female,Cognitive Science,7,5,0,0,1,0,0,0
+162,Male,Data Science,8,7,1,0,1,0,0,0
+163,Male,Economics,7,6,1,0,1,0,0,0
+164,Female,Cognitive Science,4,6,0,1,1,0,0,0
+165,Male,Cognitive Science,7,8,1,1,1,0,0,0
+166,Male,Computer Science and Engineering,8,8,1,1,1,0,0,0
+167,Nonbinary,Cognitive Science,6,7,0,0,1,0,0,0
+168,Female,Cognitive Science,8,8,1,0,1,0,0,0
+169,Female,Mathematics,9,5,1,1,1,0,0,0
+170,Female,Computer Science and Engineering,10,8,1,0,1,0,0,0
+171,Male,"Other STEM (sorry, until now not many of our students have come from your degree!)",9,5,1,0,1,0,0,0
+172,Male,Mathematics,9,8,1,1,1,1,0,0
+173,Female,Cognitive Science,4,7,0,0,1,0,0,0
+174,Male,Computer Science and Engineering,10,7,1,1,1,0,0,0
+175,Male,Cognitive Science,5,7,1,0,0,0,0,0
+176,Male,Computer Science and Engineering,6,6,1,0,1,0,0,0
+177,Male,Computer Science and Engineering,10,5,0,0,1,0,0,0
+178,Female,Data Science,8,6,1,0,1,0,0,0
+179,Female,Cognitive Science,5,5,1,0,1,0,0,0
+180,Male,"Other STEM (sorry, until now not many of our students have come from your degree!)",10,8,1,0,1,1,0,0
+181,Female,Biology,8,8,1,0,1,0,0,0
+182,Female,Cognitive Science,10,6,1,0,1,0,0,0
+183,Male,Computer Science and Engineering,7,3,1,1,1,0,0,0
+184,Male,Data Science,8,7,0,0,1,0,0,0
+185,Male,Biology,7,8,1,1,1,0,0,0
+186,Male,Mathematics,5,9,0,1,1,1,0,0
+187,Male,Mathematics,8,5,1,0,1,0,0,0
+189,Male,Data Science,10,5,0,0,1,0,0,0
+191,Male,Data Science,8,5,1,0,1,0,0,0
+192,Male,Computer Science and Engineering,5,5,1,0,1,0,0,0
+194,Female,Data Science,8,6,1,0,1,1,0,0
+195,Male,Data Science,10,10,1,1,1,0,0,0
+196,Male,Economics,6,6,1,1,1,1,0,0
+197,Female,Cognitive Science,4,2,1,0,0,0,0,0
+198,Female,Computer Science and Engineering,8,7,1,0,1,0,0,0
+199,Male,Cognitive Science,6,10,0,0,1,0,0,0
+200,Male,Mathematics,7,6,1,1,0,0,0,0
+201,Male,Mathematics,10,9,1,0,1,0,0,0
+202,Male,Mathematics,8,6,1,0,1,0,0,0
+203,Female,Data Science,9,7,1,1,1,0,0,0
+204,Female,Data Science,8,8,1,1,1,0,0,0
+205,Male,Biology,7,8,1,0,1,0,0,0
+206,Male,Mathematics,6,3,1,0,0,0,0,0
+207,Female,Cognitive Science,5,7,0,1,1,0,0,0
+208,Female,Mathematics,5,7,0,0,0,0,1,0
+209,Male,Computer Science and Engineering,8,4,1,0,1,1,0,0
+210,Male,Biology,9,5,1,0,1,1,0,0
+211,Male,Cognitive Science,2,1,0,0,0,0,1,0
+212,Female,Cognitive Science,6,7,0,0,1,0,0,0
+213,Female,Cognitive Science,5,7,0,0,1,0,0,0
+215,Female,Mathematics,7,8,1,0,1,1,0,0
+216,Male,Computer Science and Engineering,4,4,1,0,1,0,0,0
+218,Male,Data Science,9,8,1,1,1,0,0,0
+219,Female,"Other liberal arts (sorry, until now not many of our students have come from your degree!)",4,7,0,0,1,0,0,0
+220,Male,Cognitive Science,4,7,1,1,1,0,0,0
+221,Female,Cognitive Science,4,6,0,0,0,0,1,0
+222,Female,Cognitive Science,6,4,0,0,1,0,0,1
+223,Female,Cognitive Science,5,5,1,0,0,0,0,0
+224,Male,Computer Science and Engineering,8,6,1,0,0,0,0,0
+226,Female,Biology,5,5,0,0,1,0,0,0
+227,Male,Data Science,10,8,1,1,1,1,0,0
+228,Male,Data Science,7,8,1,0,1,0,0,0
+229,Male,Data Science,7,7,1,1,1,0,0,0
+230,Female,Cognitive Science,5,5,1,0,0,0,0,0
+231,Male,Economics,8,8,0,1,1,1,0,0
+232,Female,Data Science,7,5,1,0,1,0,0,0
+233,Male,"Other STEM (sorry, until now not many of our students have come from your degree!)",7,3,1,0,0,0,0,0
+234,Male,Computer Science and Engineering,9,6,0,1,1,0,0,0
+235,Female,Computer Science and Engineering,3,4,1,0,0,0,0,0
+236,Male,Cognitive Science,5,7,1,0,0,0,0,0
+237,Male,Cognitive Science,8,3,1,1,0,0,0,0
+238,Female,Data Science,10,7,1,1,1,0,0,0
+239,Male,Cognitive Science,9,6,1,0,1,0,0,0
+241,Female,Data Science,7,5,0,0,1,0,0,0
+242,Male,Computer Science and Engineering,8,8,1,0,0,0,0,0
+243,Male,Mathematics,5,3,1,1,1,0,0,0
+244,Female,Mathematics,10,6,1,1,1,0,0,0
+245,Female,Cognitive Science,3,1,0,0,0,0,1,0
+246,Male,Cognitive Science,8,6,1,0,1,0,0,0
+247,Female,Mathematics,8,9,0,1,0,1,0,1
+248,Male,Mathematics,6,10,1,1,0,1,0,0
+249,Female,Cognitive Science,5,6,0,0,1,0,0,0
+250,Male,Data Science,5,5,1,0,1,0,0,0
+251,Male,Cognitive Science,4,6,1,1,0,0,0,0
+252,Decline to answer,Computer Science and Engineering,10,5,1,0,1,0,0,0
+253,Male,Cognitive Science,5,6,1,0,1,0,0,0
+254,Female,"Other liberal arts (sorry, until now not many of our students have come from your degree!)",5,2,0,0,1,0,0,0
+255,Male,Mathematics,8,7,1,0,1,0,0,0
+256,Female,Cognitive Science,5,4,0,0,1,0,0,0
+257,Male,Cognitive Science,10,5,0,1,1,0,0,0
+259,Female,Computer Science and Engineering,7,6,1,1,1,0,0,0
+260,Male,Mathematics,8,6,1,1,1,0,0,0
+261,Male,Computer Science and Engineering,7,8,1,0,1,0,0,0
+263,Male,Mathematics,8,8,1,0,1,0,0,0
+264,Female,Cognitive Science,7,8,0,0,1,0,0,0
+265,Female,Mathematics,2,7,0,0,0,0,1,0
+267,Female,Cognitive Science,5,5,0,0,1,0,0,0
+268,Male,"Other engineering (BE, MAE, SE, etc)",7,6,1,0,1,0,0,0
+269,Male,Data Science,8,8,0,0,1,0,0,0
+270,Male,Cognitive Science,6,6,0,0,1,1,0,0
+271,Male,Computer Science and Engineering,8,5,1,0,1,0,0,0
+272,Female,Cognitive Science,6,7,0,0,1,0,0,0
+273,Female,Cognitive Science,3,1,0,0,1,0,1,0
+274,Male,Mathematics,6,6,1,0,0,0,0,0
+276,Male,Mathematics,6,6,0,1,1,0,0,0
+277,Male,Cognitive Science,3,7,0,0,1,0,0,0
+278,Female,Cognitive Science,4,4,0,0,1,0,0,0
+279,Female,Mathematics,8,5,1,0,1,0,0,0
+280,Male,Computer Science and Engineering,5,5,1,0,1,0,0,0
+281,Male,"Other STEM (sorry, until now not many of our students have come from your degree!)",9,7,1,1,1,1,0,0
+282,Female,"Other liberal arts (sorry, until now not many of our students have come from your degree!)",2,4,0,0,0,0,1,0
+283,Male,Cognitive Science,5,5,0,1,0,0,0,0
+284,Male,Computer Science and Engineering,6,5,1,1,1,0,0,0
+285,Male,Cognitive Science,10,6,1,1,1,0,0,0
+286,Female,Data Science,8,4,1,0,1,0,0,0
+287,Female,Data Science,8,8,1,1,1,1,0,0
+288,Female,Biology,7,7,1,0,1,0,0,0
+289,Female,Computer Science and Engineering,10,10,1,0,1,0,0,0
+290,Male,Computer Science and Engineering,8,5,1,0,1,0,0,0
+291,Male,Cognitive Science,7,5,1,0,1,0,0,0
+292,Male,Mathematics,5,5,1,1,1,0,0,0
+293,Female,Cognitive Science,10,5,1,0,1,0,0,0
+294,Male,Economics,7,4,0,0,1,1,0,0
+295,Male,Computer Science and Engineering,10,8,1,1,1,0,0,0
+296,Male,Cognitive Science,4,4,0,0,0,0,1,0
+298,Female,Cognitive Science,5,6,0,0,0,0,1,0
+299,Female,Cognitive Science,7,5,1,0,1,0,0,0
+300,Female,Cognitive Science,7,8,0,0,1,0,0,0
+301,Female,Cognitive Science,4,7,0,0,1,0,0,0
+302,Female,Mathematics,5,8,1,0,1,0,0,0
+303,Female,Mathematics,5,10,1,0,0,0,0,0
+304,Female,Cognitive Science,4,7,0,0,0,0,1,0
+306,Nonbinary,Mathematics,7,6,1,1,1,0,0,0
+307,Male,Cognitive Science,8,5,1,1,1,0,0,0
+308,Female,Cognitive Science,5,7,1,0,1,0,0,0
+309,Female,Mathematics,7,7,1,0,1,0,0,0
+310,Female,Mathematics,5,5,1,0,1,0,0,0
+311,Male,"Other engineering (BE, MAE, SE, etc)",7,6,1,0,1,0,0,0
+312,Male,Economics,4,7,0,0,1,1,0,0
+313,Female,Cognitive Science,6,8,1,0,1,0,0,0
+314,Female,Cognitive Science,5,6,1,0,1,0,0,0
+316,Male,Cognitive Science,6,6,0,1,1,1,0,0
+317,Female,"Other STEM (sorry, until now not many of our students have come from your degree!)",8,7,1,0,1,1,0,0
+318,Male,"Other STEM (sorry, until now not many of our students have come from your degree!)",3,7,0,0,0,0,1,0
+320,Female,Cognitive Science,4,7,0,0,1,0,0,0
+321,Female,Computer Science and Engineering,5,8,0,0,1,0,0,0
+322,Male,"Other STEM (sorry, until now not many of our students have come from your degree!)",8,6,1,0,1,0,0,0
+323,Male,Cognitive Science,6,3,0,0,1,0,0,0
+324,Male,Mathematics,8,8,0,0,1,0,0,0
+325,Female,Cognitive Science,4,4,1,0,0,0,0,0
+326,Male,Cognitive Science,3,2,0,0,0,0,1,0
+327,Female,Cognitive Science,5,5,0,0,1,0,0,0
+328,Female,Mathematics,6,6,0,0,1,1,0,0
+329,Male,Psychology,6,8,1,0,1,0,0,0
+330,Male,Computer Science and Engineering,6,2,1,0,0,0,0,0
+331,Female,Cognitive Science,2,6,0,0,0,0,1,0
+332,Female,Computer Science and Engineering,8,4,1,1,0,0,0,0
+333,Female,Cognitive Science,5,7,0,0,1,0,0,0
+334,Male,Data Science,7,7,1,0,1,0,0,0
+335,Male,Cognitive Science,7,7,1,0,1,1,0,0
+336,Male,Mathematics,8,7,1,1,1,0,0,0
+337,Male,Cognitive Science,9,6,0,0,1,0,0,0
+338,Male,Mathematics,8,7,1,1,1,0,0,0
+339,Male,Cognitive Science,4,5,0,0,1,0,0,0
+340,Female,Economics,6,7,0,0,0,0,1,0
+341,Male,Mathematics,7,7,1,0,0,0,0,0
+343,Male,Data Science,5,6,0,0,1,1,0,0
+344,Male,Data Science,9,8,1,0,1,0,0,0
+345,Male,Mathematics,10,10,1,1,1,1,0,0
+346,Female,Cognitive Science,4,7,0,0,1,0,1,0
+347,Male,Mathematics,9,8,0,0,1,0,0,0
+348,Male,Electrical and Computer Engineering,9,8,1,0,1,0,0,0
+349,Female,Data Science,5,5,1,0,1,0,0,0
+351,Female,Mathematics,8,7,1,0,1,0,0,0
+352,Female,"Other liberal arts (sorry, until now not many of our students have come from your degree!)",2,3,1,0,0,0,0,0
+354,Female,Cognitive Science,5,8,0,0,1,0,1,0
+355,Female,Cognitive Science,2,2,0,0,1,0,0,0
+356,Male,Cognitive Science,7,9,1,0,1,0,0,0
+357,Female,Cognitive Science,4,7,0,0,1,0,0,0
+358,Male,"Other STEM (sorry, until now not many of our students have come from your degree!)",5,7,0,0,1,1,0,0
+359,Male,Mathematics,9,8,1,1,1,0,0,0
+360,Male,Data Science,9,8,1,0,1,0,0,0
+361,Male,Computer Science and Engineering,10,8,1,1,1,0,0,0
+362,Male,Cognitive Science,6,8,0,0,1,0,0,0
+363,Female,Cognitive Science,4,6,0,0,1,0,0,0
+364,Female,Computer Science and Engineering,9,7,1,0,1,0,0,0
+365,Male,Data Science,9,8,1,0,1,0,0,0
+366,Female,Data Science,8,6,1,0,1,0,0,0
+367,Male,Computer Science and Engineering,8,3,1,0,1,0,0,0
+368,Male,Data Science,7,6,1,0,1,0,0,0
+369,Female,Data Science,8,7,1,0,1,0,0,0
+370,Male,Cognitive Science,3,5,0,1,1,0,0,0
+371,Male,Cognitive Science,3,5,0,0,1,0,1,0
+372,Male,Political Science,7,7,1,1,1,1,0,0
+373,Female,Data Science,8,7,1,1,1,0,0,0
+374,Female,"Other STEM (sorry, until now not many of our students have come from your degree!)",7,7,1,0,1,1,0,0
+375,Female,Cognitive Science,5,2,0,0,1,0,0,0
+376,Male,Cognitive Science,4,4,0,1,1,0,0,0
+377,Male,Cognitive Science,5,5,0,1,1,0,0,0
+378,Female,Cognitive Science,3,5,0,0,1,0,1,0
+379,Female,Cognitive Science,4,4,1,0,1,0,0,0
+380,Male,Computer Science and Engineering,10,3,1,0,1,0,0,0
+381,Male,Mathematics,7,6,1,0,1,0,0,0
+382,Male,Computer Science and Engineering,10,10,1,0,1,0,0,0
+383,Male,Computer Science and Engineering,8,6,1,1,1,0,0,0
+384,Male,Mathematics,4,4,1,0,1,0,0,0
+385,Female,Cognitive Science,5,5,1,0,1,0,0,0
+386,Male,Computer Science and Engineering,8,8,1,0,1,0,0,0
+387,Female,Cognitive Science,3,4,0,0,0,0,1,0
+388,Male,Economics,4,8,1,0,1,1,0,0
+389,Male,Computer Science and Engineering,8,5,1,1,1,0,0,0
+390,Male,Computer Science and Engineering,8,7,1,1,1,0,0,0
+391,Female,Mathematics,6,7,1,0,1,0,0,0
+392,Female,Mathematics,8,5,1,0,1,1,0,0
+394,Female,Computer Science and Engineering,9,7,1,0,1,0,0,0
+395,Male,Mathematics,10,8,1,0,1,0,0,0
+396,Female,Data Science,7,8,1,0,1,0,0,0
+397,Male,Cognitive Science,3,5,0,0,1,0,0,0
+398,Male,Economics,7,6,1,1,1,1,0,0
+399,Male,Data Science,8,8,1,1,1,0,0,0
+400,Female,Data Science,7,7,1,1,1,0,0,0
+401,Male,Cognitive Science,7,7,0,0,1,0,0,0
+403,Male,Data Science,8,8,1,1,1,1,0,0
+404,Female,Cognitive Science,4,5,0,0,1,0,0,0
+405,Female,Cognitive Science,4,8,0,0,1,0,0,0
+406,Male,Computer Science and Engineering,8,6,1,0,1,0,0,0
+407,Female,Computer Science and Engineering,8,6,1,0,0,0,0,0
+408,Male,Computer Science and Engineering,7,7,1,1,1,0,0,0
+409,Male,Cognitive Science,7,7,0,0,1,0,0,0
+410,Male,Electrical and Computer Engineering,6,8,1,1,0,0,0,0
+411,Female,Cognitive Science,2,8,0,0,0,0,1,0
+412,Nonbinary,Cognitive Science,3,6,0,1,1,0,0,0
+413,Female,Cognitive Science,5,9,1,0,1,0,0,0
+414,Female,Mathematics,10,10,1,0,1,1,0,0
+415,Female,Computer Science and Engineering,10,7,1,1,1,0,0,0
+416,Female,Mathematics,7,6,1,1,0,0,0,0
+417,Male,Mathematics,9,8,1,1,1,1,0,0
+418,Female,Cognitive Science,5,7,0,1,1,0,0,0
+419,Male,Data Science,7,6,1,1,1,0,0,0
+420,Female,Cognitive Science,2,3,0,0,0,0,1,0
+421,Female,Cognitive Science,2,6,0,0,0,0,1,0
+422,Female,Cognitive Science,6,7,0,0,1,0,0,0
+423,Decline to answer,Cognitive Science,5,6,0,0,0,0,1,0
+424,Female,Cognitive Science,5,3,0,0,1,0,0,0
+425,Female,Mathematics,8,5,1,0,1,0,0,0
+426,Female,Computer Science and Engineering,4,6,0,0,0,0,0,1
+427,Female,Data Science,9,7,0,0,1,0,0,0
+428,Female,Cognitive Science,3,3,0,0,0,0,1,0
+429,Female,Economics,3,6,1,1,1,0,0,0
+430,Nonbinary,Cognitive Science,4,5,0,0,1,0,0,0
+431,Male,Mathematics,5,7,0,1,0,0,0,0
+432,Female,Computer Science and Engineering,6,5,1,1,1,0,0,0
+433,Male,Data Science,7,4,0,0,1,0,0,0
+434,Female,Cognitive Science,4,7,0,0,0,0,1,0
+435,Female,Cognitive Science,5,5,0,0,1,0,0,0
+436,Male,Cognitive Science,7,5,0,0,1,0,0,0
+437,Male,Cognitive Science,9,8,0,0,0,0,0,1
+438,Male,Mathematics,9,6,1,0,1,0,0,0
+439,Female,Computer Science and Engineering,9,7,1,0,1,0,0,0
+440,Female,Mathematics,7,8,1,0,1,0,0,0
+442,Female,Mathematics,10,5,1,0,1,0,0,0
+443,Female,Cognitive Science,4,4,0,0,1,0,0,0
+444,Female,Cognitive Science,5,9,0,0,0,0,1,0
+445,Female,Data Science,9,8,1,1,1,0,0,0
+446,Male,Cognitive Science,5,3,0,0,1,0,0,0
+447,Male,Data Science,8,7,0,1,1,0,0,0
+448,Female,Cognitive Science,3,3,0,0,1,0,0,0
+449,Male,Electrical and Computer Engineering,8,5,1,1,1,0,0,0
+451,Female,Data Science,7,7,1,0,1,0,0,0
+452,Male,Cognitive Science,5,5,0,0,1,0,0,0
+453,Female,Cognitive Science,7,6,1,1,1,1,0,0
+454,Male,Mathematics,7,8,1,1,1,1,0,0
+455,Male,Data Science,4,5,1,0,1,0,0,0
+456,Male,Cognitive Science,5,5,0,0,1,0,0,0
+457,Male,Data Science,10,8,1,0,1,0,0,0
+458,Female,Cognitive Science,6,6,1,0,1,0,0,0
+459,Decline to answer,Mathematics,9,7,1,0,1,0,0,0
+460,Male,Cognitive Science,5,7,0,0,0,0,1,0
+461,Female,Cognitive Science,4,7,0,0,0,0,1,0
+462,Male,Data Science,9,9,1,0,1,1,0,0
+463,Female,Cognitive Science,4,8,0,0,0,0,1,0
+464,Female,Data Science,6,5,1,1,1,0,0,0
+465,Male,Mathematics,7,5,0,0,1,0,0,0
+466,Female,Cognitive Science,4,6,0,1,1,1,0,0
+467,Female,Computer Science and Engineering,7,5,1,0,1,0,0,0
+468,Female,Mathematics,7,8,1,1,1,1,0,0
+469,Female,Biology,6,6,1,0,0,0,0,0
+470,Female,Cognitive Science,2,5,0,0,0,0,1,0
+471,Female,Cognitive Science,3,7,1,0,1,0,0,0
+472,Male,Economics,5,5,1,1,1,1,0,0
+473,Male,Computer Science and Engineering,10,10,1,1,1,0,0,0
+475,Female,Cognitive Science,4,6,1,0,1,0,0,0
+476,Male,Mathematics,9,6,1,0,1,1,0,0
+477,Female,Cognitive Science,3,6,0,0,0,0,1,0
+478,Female,Cognitive Science,2,5,0,0,0,0,1,0
+479,Male,Economics,5,5,1,1,1,1,0,0
+480,Female,Cognitive Science,7,8,0,0,1,0,0,0
+481,Female,Cognitive Science,6,7,0,1,1,1,0,0
+483,Male,Cognitive Science,4,7,0,0,1,0,1,0
+484,Female,Cognitive Science,10,3,1,1,1,0,0,0
+485,Male,Computer Science and Engineering,7,9,1,0,1,1,0,0
+486,Male,Data Science,10,5,1,1,1,0,0,0
+487,Female,Biology,8,5,0,0,1,1,0,0
+488,Female,Computer Science and Engineering,6,8,1,1,1,1,0,0
+489,Female,Psychology,5,6,0,0,1,0,0,0
+490,Female,Cognitive Science,3,6,0,0,0,0,1,0
+491,Female,Cognitive Science,4,6,0,0,1,0,1,0
+492,Male,Cognitive Science,3,4,0,0,0,0,1,0
+493,Female,Cognitive Science,10,10,1,1,1,0,0,0
+494,Male,Cognitive Science,8,9,1,0,1,0,0,0
+495,Female,Computer Science and Engineering,10,8,1,1,1,0,0,0
+496,Male,Cognitive Science,3,4,0,0,1,0,1,0
+497,Male,Data Science,9,8,0,0,1,0,0,0
+498,Male,Mathematics,7,7,0,0,1,1,0,0
+499,Female,Cognitive Science,8,5,1,1,1,0,0,0
+500,Female,Economics,5,7,0,0,1,1,0,0
+501,Male,Data Science,8,8,1,0,1,0,0,0
+502,Female,Data Science,7,7,0,0,1,0,0,0
+503,Male,Cognitive Science,5,7,0,0,1,0,0,0
+504,Male,Cognitive Science,8,7,1,1,1,0,0,0
+505,Female,Cognitive Science,8,7,0,0,1,0,0,1
+506,Male,Computer Science and Engineering,8,7,1,1,1,0,0,0
+507,Female,Psychology,5,3,0,0,1,0,0,0
+508,Male,Mathematics,8,10,1,1,0,0,0,0
+509,Female,"Other STEM (sorry, until now not many of our students have come from your degree!)",6,5,1,0,1,1,0,0
+510,Male,Cognitive Science,6,4,1,1,1,0,0,0
+511,Female,Cognitive Science,5,5,0,0,0,0,1,0
+512,Nonbinary,Cognitive Science,3,5,0,0,1,0,1,0
+513,Male,Cognitive Science,4,4,0,0,1,0,0,0
+514,Female,Cognitive Science,6,2,1,0,0,0,0,0
+515,Male,Computer Science and Engineering,7,6,1,1,1,0,0,0
+516,Male,Data Science,10,10,0,0,1,0,0,0
+517,Male,Cognitive Science,4,4,1,0,1,0,0,0
+518,Female,Mathematics,6,2,0,0,1,0,0,0
+519,Male,Data Science,8,8,1,0,1,0,0,0
+520,Male,Data Science,8,5,1,0,1,0,0,0
+521,Male,Mathematics,9,6,1,0,1,0,0,0
+522,Male,Cognitive Science,8,6,0,1,1,0,0,0
+523,Male,Mathematics,7,5,1,0,1,0,0,0
+525,Female,Cognitive Science,4,5,0,0,1,0,0,0
+526,Male,Data Science,7,4,1,0,1,0,0,0
+528,Male,Computer Science and Engineering,5,4,1,0,1,0,0,0
+529,Female,Cognitive Science,2,8,0,0,0,0,1,0
+530,Male,Cognitive Science,7,7,0,1,1,0,0,0
+531,Male,Computer Science and Engineering,6,3,1,0,0,0,0,0
+532,Male,Electrical and Computer Engineering,8,7,1,1,1,0,0,0
+533,Male,Cognitive Science,8,7,0,1,1,0,0,0
+534,Female,Cognitive Science,6,6,1,0,1,0,0,0
+535,Female,Data Science,7,5,1,0,1,0,0,0
+536,Female,Computer Science and Engineering,6,3,0,0,1,0,0,0
+537,Female,Cognitive Science,5,7,0,1,1,0,0,0
+538,Male,Mathematics,10,8,1,1,1,1,0,0
+539,Female,Cognitive Science,3,4,0,0,1,0,0,0
+540,Male,Economics,8,5,1,0,1,0,0,0
+541,Male,Computer Science and Engineering,7,5,1,0,0,0,0,0
+542,Male,Cognitive Science,7,6,0,1,1,0,0,0
+543,Male,Mathematics,9,6,1,1,1,0,0,0
+544,Female,Cognitive Science,4,5,0,0,1,0,0,0
+545,Male,Cognitive Science,7,6,0,1,1,0,0,0
+546,Female,Computer Science and Engineering,9,8,1,0,1,0,0,0
+547,Female,Cognitive Science,3,5,0,0,1,0,0,0
+548,Female,Economics,5,8,1,0,1,1,0,0
+549,Male,Mathematics,8,5,1,0,1,0,0,0
+551,Female,Chemistry,6,1,0,1,1,0,0,0
+552,Female,Electrical and Computer Engineering,5,5,0,1,0,0,0,0
+553,Male,Cognitive Science,7,4,1,0,1,0,0,0
+554,Female,Computer Science and Engineering,7,8,1,0,1,0,0,1
+555,Female,Economics,9,9,0,1,1,1,0,0
+556,Male,Mathematics,5,5,1,0,1,0,0,0
+557,Female,Cognitive Science,6,3,0,0,0,0,1,0
+558,Male,Computer Science and Engineering,10,6,1,0,1,1,0,0
+559,Male,"Other engineering (BE, MAE, SE, etc)",4,7,0,1,0,0,0,0
+560,Male,Mathematics,7,7,1,0,1,1,0,0
+561,Male,Data Science,2,1,0,0,1,0,0,0
+562,Female,Cognitive Science,5,7,0,0,1,0,0,0
+563,Female,"Other STEM (sorry, until now not many of our students have come from your degree!)",8,4,1,0,0,0,0,1
+564,Female,Data Science,7,6,1,0,1,0,0,0
+565,Male,Mathematics,5,4,1,0,1,0,0,0
+566,Female,Computer Science and Engineering,7,4,1,0,1,0,0,0
+567,Female,Mathematics,5,4,1,1,1,1,0,0
+568,Male,Cognitive Science,2,5,0,0,0,0,1,0
+569,Male,Mathematics,7,6,1,0,1,0,0,0
+570,Male,Electrical and Computer Engineering,7,5,0,1,0,1,0,0
+571,Female,Mathematics,5,8,1,1,0,0,0,0
+572,Male,Cognitive Science,7,7,0,0,1,0,0,0
+573,Male,Mathematics,9,7,1,1,1,1,0,0
+574,Male,Economics,9,6,0,0,1,1,0,0
+575,Male,Cognitive Science,6,8,0,0,1,1,0,0
+576,Female,Cognitive Science,3,6,0,0,1,0,0,0
+577,Male,Cognitive Science,3,6,0,0,1,0,0,0
+578,Male,Electrical and Computer Engineering,10,8,1,1,1,0,0,0
+579,Female,Electrical and Computer Engineering,10,5,1,0,1,0,0,0
+580,Female,Cognitive Science,5,5,0,0,1,0,0,0
+581,Male,Computer Science and Engineering,7,5,1,0,1,0,0,0
+582,Male,Cognitive Science,5,4,0,0,1,0,0,0
+583,Female,Cognitive Science,5,8,0,1,1,0,0,0
+584,Male,Psychology,5,7,0,0,1,0,0,0
+585,Female,Cognitive Science,3,4,0,0,1,0,0,0
+586,Male,Mathematics,6,5,1,0,0,0,0,0
+587,Male,Economics,6,9,0,0,1,1,0,0
+588,Male,Cognitive Science,6,4,0,0,1,0,0,0
+589,Male,Economics,6,9,0,0,1,1,0,0
+590,Female,"Other liberal arts (sorry, until now not many of our students have come from your degree!)",9,3,1,1,1,0,0,0
+591,Female,Cognitive Science,3,6,1,1,0,0,0,0
+592,Female,Cognitive Science,6,7,1,0,1,0,0,0
+593,Female,Mathematics,2,5,0,1,1,1,0,0
+594,Female,Cognitive Science,6,7,0,0,1,0,0,0
+595,Male,Mathematics,8,8,1,1,1,1,0,0
+596,Male,Data Science,9,5,1,0,1,0,0,0
+597,Female,Economics,5,7,1,0,1,1,0,0
+598,Male,Cognitive Science,4,4,0,0,0,0,1,0
+600,Male,Data Science,9,7,1,0,1,0,0,0
+601,Male,Data Science,10,7,1,1,1,0,0,0
+602,Male,Psychology,7,7,0,0,0,1,0,0
+603,Female,Cognitive Science,10,9,1,1,1,0,0,0
+604,Female,"Other STEM (sorry, until now not many of our students have come from your degree!)",8,6,0,0,1,0,0,0
+606,Male,Computer Science and Engineering,10,8,1,0,1,0,0,0
+607,Male,Mathematics,9,6,1,0,1,0,0,0
+608,Male,Electrical and Computer Engineering,7,5,1,0,1,0,0,0
+609,Female,Data Science,8,8,1,1,1,0,0,0
+610,Female,Cognitive Science,7,8,0,0,1,0,0,0
+611,Female,Computer Science and Engineering,10,6,1,0,0,0,0,1
+612,Male,Computer Science and Engineering,10,10,1,0,1,0,0,0
+613,Male,Cognitive Science,3,4,0,0,0,0,1,0
+614,Male,Cognitive Science,6,4,0,0,1,0,0,0
+615,Male,Computer Science and Engineering,5,5,1,0,1,0,0,0
+616,Female,Cognitive Science,3,6,0,0,0,0,1,0
+617,Female,Cognitive Science,7,4,1,1,1,0,0,0
+618,Male,"Other engineering (BE, MAE, SE, etc)",7,8,1,1,1,0,0,0
+619,Male,Cognitive Science,9,8,0,1,1,1,0,0
+620,Male,Computer Science and Engineering,10,8,1,0,1,0,0,0
+621,Female,Cognitive Science,7,6,1,0,1,0,0,0
+622,Female,Data Science,9,8,1,1,1,1,0,0
+623,Female,Chemistry,5,3,0,0,1,1,0,0
+624,Male,"Other liberal arts (sorry, until now not many of our students have come from your degree!)",6,7,1,0,1,0,0,0
+625,Female,Cognitive Science,6,4,0,0,1,0,0,0
+626,Decline to answer,Cognitive Science,4,6,1,0,1,0,0,0
+627,Male,Cognitive Science,7,7,1,0,1,0,0,0
+628,Female,Computer Science and Engineering,8,7,1,0,1,0,0,0
+629,Male,Mathematics,10,9,1,0,1,0,0,0
+630,Male,Mathematics,6,4,1,1,0,0,0,0
+631,Female,Data Science,7,5,0,0,1,0,0,0
+632,Female,Cognitive Science,5,7,0,1,1,0,0,0
+633,Female,Cognitive Science,8,6,0,0,1,0,0,0
+634,Female,Computer Science and Engineering,8,5,1,0,0,1,0,0
+635,Female,Cognitive Science,2,4,0,0,0,0,1,0
+636,Male,Cognitive Science,8,6,1,0,1,1,0,0
+637,Female,Biology,6,6,1,1,1,0,0,0
+638,Female,Cognitive Science,3,4,0,0,0,0,1,0
+639,Male,Cognitive Science,9,5,1,0,0,0,0,0
+640,Female,Cognitive Science,6,4,0,0,1,0,0,0
+641,Female,Economics,7,7,0,0,1,0,0,0
+642,Male,Cognitive Science,6,7,0,1,1,1,0,0
+643,Male,Cognitive Science,10,9,1,1,1,1,0,0
+644,Female,Cognitive Science,9,8,1,0,1,0,0,0
+645,Male,"Other STEM (sorry, until now not many of our students have come from your degree!)",7,7,0,0,1,0,0,0
+646,Female,Data Science,8,7,1,0,1,0,0,0
+647,Male,Data Science,8,6,1,1,1,0,0,0
+648,Male,Cognitive Science,6,6,1,1,1,0,0,0
+649,Male,Data Science,8,8,1,0,1,1,0,0
+651,Female,Mathematics,8,7,0,0,0,0,0,1
+652,Female,Cognitive Science,6,6,0,0,1,0,0,0
+653,Male,Cognitive Science,7,6,1,1,1,0,0,0
+654,Female,Cognitive Science,3,5,0,0,0,0,1,0
+655,Female,Cognitive Science,3,5,0,0,0,0,1,0
+656,Female,Cognitive Science,4,7,0,1,1,0,0,0
+658,Male,"Other liberal arts (sorry, until now not many of our students have come from your degree!)",5,3,1,0,1,0,0,0
+659,Male,Mathematics,8,8,1,1,1,0,0,0
+660,Male,Cognitive Science,6,7,0,1,1,0,0,0
+661,Female,Cognitive Science,7,3,1,0,1,0,0,0
+662,Female,Cognitive Science,9,9,0,0,1,0,0,0
+663,Male,Cognitive Science,7,1,0,0,1,0,0,0
+664,Male,Economics,9,7,1,0,1,0,0,0
+665,Male,"Other STEM (sorry, until now not many of our students have come from your degree!)",8,7,1,0,1,1,0,0
+666,Male,Cognitive Science,6,7,0,0,1,1,0,0
+667,Female,Cognitive Science,4,5,0,0,0,0,1,0
+668,Female,"Other liberal arts (sorry, until now not many of our students have come from your degree!)",6,6,0,0,0,0,1,0
+669,Male,Sociology,8,7,0,0,1,0,0,0
+670,Male,Cognitive Science,4,5,1,0,0,0,0,0
+671,Female,Mathematics,7,3,1,1,0,0,0,0
+672,Male,Data Science,10,7,0,0,1,0,0,0
+673,Male,Computer Science and Engineering,10,6,0,0,1,0,0,0
+674,Male,Biology,7,7,0,0,1,0,0,0
+675,Female,Data Science,10,10,1,1,1,1,0,0
+676,Male,"Other liberal arts (sorry, until now not many of our students have come from your degree!)",7,3,1,0,1,0,0,0
+677,Male,Computer Science and Engineering,10,5,1,0,1,0,0,0
+678,Male,Computer Science and Engineering,8,1,1,0,1,0,0,0
+679,Male,Mathematics,10,5,1,0,1,0,0,0
+680,Female,Cognitive Science,7,5,1,0,1,0,0,0
+681,Male,Cognitive Science,4,5,0,0,1,0,0,0
+682,Nonbinary,"Other liberal arts (sorry, until now not many of our students have come from your degree!)",6,5,0,0,1,0,0,0
+683,Male,"Other engineering (BE, MAE, SE, etc)",6,9,1,1,1,0,0,0
+684,Male,Mathematics,5,4,1,1,1,0,0,0
+685,Male,Cognitive Science,4,2,1,0,0,0,0,0
+686,Female,Data Science,7,7,0,0,1,0,0,0
+688,Male,Electrical and Computer Engineering,8,4,0,0,1,0,0,0
+689,Male,Cognitive Science,3,5,1,0,0,0,0,0
+690,Decline to answer,"Other liberal arts (sorry, until now not many of our students have come from your degree!)",5,4,0,0,1,0,0,0
+691,Male,Data Science,10,7,1,0,1,0,0,0
+692,Male,Cognitive Science,6,8,0,1,1,0,0,0
+693,Female,Mathematics,8,5,0,0,0,0,0,1
+694,Female,Data Science,9,8,1,1,1,0,0,0
+695,Male,Computer Science and Engineering,9,6,1,0,1,0,0,0
+696,Male,Mathematics,7,8,1,1,1,0,0,0
+697,Male,Mathematics,10,7,1,1,1,0,0,0
+699,Male,Data Science,7,7,0,1,1,1,0,0
+700,Female,Data Science,8,7,0,0,1,0,0,0
+701,Male,Physics,10,6,1,1,1,0,0,0
+703,Male,Mathematics,10,6,1,0,1,1,0,0
+704,Female,Mathematics,2,3,0,1,1,0,0,0
+705,Male,Computer Science and Engineering,10,7,1,0,1,0,0,0
+706,Female,Mathematics,5,6,0,0,1,0,0,0
+707,Female,Cognitive Science,5,6,0,0,1,0,0,0
+708,Male,Cognitive Science,8,8,1,1,1,0,0,0
+709,Female,Data Science,8,8,1,1,1,0,0,0
+710,Female,Cognitive Science,5,8,0,0,0,0,1,0
+711,Female,Cognitive Science,6,6,0,0,1,0,0,0
+712,Male,Cognitive Science,6,8,0,0,1,0,0,0
+713,Male,Data Science,8,7,0,0,1,1,0,0
+714,Male,Cognitive Science,7,8,0,1,1,0,0,0
+715,Female,Biology,7,5,1,1,1,0,0,0
+716,Female,Cognitive Science,5,9,1,1,0,0,0,0
+718,Nonbinary,Cognitive Science,7,6,1,0,1,0,0,0
+719,Male,Cognitive Science,4,2,0,0,1,0,0,0
+721,Female,Mathematics,7,7,1,1,1,0,0,0
+722,Female,Mathematics,4,4,1,1,1,0,0,0
+723,Nonbinary,Cognitive Science,4,4,0,0,1,0,1,0
+724,Female,Cognitive Science,2,8,0,0,1,0,1,0
+726,Male,Economics,7,8,1,0,1,0,0,0
+727,Female,Data Science,6,8,1,0,1,0,0,0
+728,Female,Data Science,8,7,0,0,1,0,0,0
+729,Female,Data Science,6,6,1,0,1,0,0,0
+730,Female,Cognitive Science,3,3,0,0,1,0,0,0
+731,Male,Computer Science and Engineering,7,7,1,0,1,0,0,0
+732,Male,Mathematics,6,6,1,0,1,0,0,0
+733,Male,Mathematics,5,3,1,0,1,0,0,0
+734,Male,Computer Science and Engineering,10,5,1,0,1,0,0,0
+735,Female,"Other engineering (BE, MAE, SE, etc)",6,7,1,1,0,0,0,0
+736,Female,Cognitive Science,5,9,0,1,1,1,0,0
+737,Male,Cognitive Science,5,5,0,0,1,0,0,0
+738,Male,Data Science,10,10,1,1,1,1,0,0
+739,Female,Cognitive Science,4,7,0,1,1,1,0,0
+740,Female,Cognitive Science,2,8,0,0,1,0,0,0
+741,Female,Cognitive Science,5,2,1,0,0,0,1,0
+742,Male,Data Science,8,8,1,0,1,0,0,0
+743,Nonbinary,Cognitive Science,3,3,0,0,1,0,1,0
+744,Male,Data Science,7,8,1,0,1,0,0,0
+745,Female,Cognitive Science,4,5,0,0,1,0,0,0
+746,Female,Cognitive Science,7,7,0,0,1,1,0,0
+747,Female,Cognitive Science,3,5,1,0,0,0,0,0
+748,Male,Computer Science and Engineering,9,6,1,0,1,1,0,0
+749,Male,Cognitive Science,4,4,0,0,1,0,0,0
+750,Male,Economics,8,5,1,0,1,0,0,0
+752,Female,Cognitive Science,5,4,1,0,1,0,0,0
+753,Nonbinary,Cognitive Science,4,7,0,0,1,0,1,0
+754,Male,"Other engineering (BE, MAE, SE, etc)",7,4,0,1,1,0,0,0
+756,Female,Psychology,3,8,0,0,1,0,0,0
+757,Male,Data Science,5,3,1,1,1,0,0,0
+758,Female,Cognitive Science,6,6,1,0,0,0,0,0
+760,Female,Cognitive Science,6,4,1,0,1,0,0,0
+761,Female,Data Science,7,6,1,0,1,0,0,0
+763,Female,Cognitive Science,2,3,0,0,1,0,0,0
+764,Female,Cognitive Science,7,6,0,1,1,0,0,0
+765,Female,Cognitive Science,5,5,0,0,1,0,0,0
+766,Male,Cognitive Science,8,7,1,0,1,0,0,0
+767,Male,Data Science,8,8,1,1,1,1,0,0
+768,Male,Mathematics,8,6,1,1,1,0,0,0
+769,Female,"Other engineering (BE, MAE, SE, etc)",6,6,1,1,1,0,0,0
+770,Female,Mathematics,5,3,1,0,1,0,0,0
+771,Female,Computer Science and Engineering,7,7,1,1,1,1,0,0
+772,Male,Computer Science and Engineering,7,6,1,0,1,0,0,0
+773,Female,Cognitive Science,6,4,1,0,1,0,0,0
+774,Male,Cognitive Science,5,5,0,0,1,0,0,0
+775,Male,Computer Science and Engineering,1,1,0,0,0,0,1,0
+776,Male,Data Science,8,10,1,0,1,0,0,0
+777,Female,Cognitive Science,4,6,0,0,1,0,0,0
+778,Female,Cognitive Science,5,7,0,0,1,1,0,0
+779,Male,Cognitive Science,3,4,0,0,0,0,1,0
+780,Female,Mathematics,2,1,0,0,0,0,1,0
+781,Male,Data Science,8,8,1,0,1,0,0,0
+783,Female,Cognitive Science,5,7,0,0,0,0,0,1
+784,Female,Computer Science and Engineering,10,6,1,1,1,1,0,0
+785,Male,Computer Science and Engineering,8,8,1,0,1,0,0,0
+786,Male,Computer Science and Engineering,7,5,1,0,1,0,0,0
+787,Male,Cognitive Science,8,5,0,0,1,0,0,0
+788,Male,Cognitive Science,6,4,0,0,1,0,0,0
+789,Male,Cognitive Science,2,3,0,0,0,0,1,0
+790,Male,Cognitive Science,5,4,1,0,1,0,0,0
+791,Female,Cognitive Science,3,7,0,1,1,0,0,0
+792,Female,Cognitive Science,7,6,0,0,1,0,0,0
+793,Female,Cognitive Science,3,7,0,0,1,0,1,0
+794,Female,Cognitive Science,4,5,0,0,1,0,0,0
+795,Male,Mathematics,10,8,1,0,1,0,0,0
+796,Female,Computer Science and Engineering,8,4,1,0,1,0,0,0
+797,Male,Computer Science and Engineering,8,6,1,1,1,1,0,0
+798,Male,Mathematics,5,6,0,1,1,1,0,0
+799,Male,Cognitive Science,5,6,1,0,1,0,0,0
+800,Female,Cognitive Science,5,7,0,0,1,0,0,0
+801,Female,Cognitive Science,2,3,0,0,0,0,1,0
+802,Female,Data Science,8,4,1,1,1,0,0,0
+803,Female,Cognitive Science,6,9,0,0,1,0,0,0
+804,Male,"Other liberal arts (sorry, until now not many of our students have come from your degree!)",9,4,1,0,1,0,0,0
+805,Female,Cognitive Science,5,5,0,0,1,0,0,0
+806,Male,Economics,9,7,1,0,1,1,0,0
+807,Male,Data Science,9,5,1,0,1,0,0,0
+808,Male,Cognitive Science,3,5,0,0,0,0,1,0
+809,Male,Mathematics,10,10,1,0,1,0,0,0
+810,Female,Cognitive Science,3,8,0,1,1,0,0,0
+811,Female,Computer Science and Engineering,7,5,1,0,1,0,0,0
+812,Female,Mathematics,7,7,1,1,1,1,0,0
+813,Male,Cognitive Science,4,4,0,0,0,0,1,0
+814,Female,Cognitive Science,4,3,0,1,0,0,0,1
+815,Female,Computer Science and Engineering,7,6,1,0,1,0,0,0
+816,Male,Economics,5,7,0,0,1,1,0,0
+817,Male,Computer Science and Engineering,10,8,1,0,1,0,0,0
+818,Female,"Other liberal arts (sorry, until now not many of our students have come from your degree!)",8,8,0,0,1,1,0,0
+820,Male,Cognitive Science,6,3,0,1,1,0,0,0
+821,Female,Computer Science and Engineering,7,7,1,0,0,0,0,0
+822,Female,Cognitive Science,5,6,0,0,0,0,1,0
+823,Male,Cognitive Science,3,7,0,0,0,0,1,0
+824,Male,Cognitive Science,5,6,0,0,0,0,1,0
+825,Female,Data Science,8,8,1,1,1,1,0,0
+826,Female,Cognitive Science,4,7,0,1,1,1,0,0
+827,Female,Cognitive Science,7,2,1,0,1,0,0,0
+828,Male,Cognitive Science,4,5,0,0,0,0,1,0
+829,Male,Computer Science and Engineering,10,10,1,1,1,1,0,0
+830,Female,Cognitive Science,3,7,0,1,1,0,0,0
+831,Female,Cognitive Science,4,4,1,0,0,0,0,0
+832,Male,Mathematics,10,9,0,0,1,0,0,0
+833,Female,Cognitive Science,4,4,0,0,1,0,0,0
+834,Male,Biology,6,7,1,1,1,0,0,0
+835,Female,Mathematics,10,10,1,1,1,1,0,0
+836,Female,Cognitive Science,6,4,1,0,1,0,0,0
+838,Male,Cognitive Science,3,3,0,0,1,0,1,0
+839,Female,Cognitive Science,7,6,1,0,1,0,0,0
+840,Male,Computer Science and Engineering,7,7,1,0,1,1,0,0
+842,Female,Psychology,6,6,0,0,1,0,0,0
+844,Female,Cognitive Science,6,6,1,0,0,0,0,0
+845,Male,Mathematics,10,8,1,1,1,1,0,0
+846,Female,Cognitive Science,6,3,0,1,1,0,0,0
+847,Female,Computer Science and Engineering,6,4,0,1,1,0,0,0
+849,Male,Computer Science and Engineering,7,5,1,1,1,1,0,0
+850,Female,Cognitive Science,7,4,1,0,1,0,0,0
+851,Male,Cognitive Science,6,6,0,0,1,0,0,0
+852,Male,Cognitive Science,6,7,0,0,1,0,0,0
+854,Male,Data Science,10,8,1,0,1,1,0,0
+855,Male,Mathematics,8,4,1,0,1,0,0,0
+856,Nonbinary,Cognitive Science,4,7,0,0,1,0,0,0
+857,Male,Computer Science and Engineering,6,6,1,0,1,0,0,0
+858,Female,Cognitive Science,4,5,0,0,0,0,1,0
+859,Female,Economics,6,9,0,0,1,1,0,0
+862,Male,Computer Science and Engineering,7,6,1,0,1,0,0,0
+863,Male,Cognitive Science,6,6,0,0,0,0,1,0
+864,Male,Data Science,7,7,1,0,1,0,0,0
+865,Male,Cognitive Science,6,5,0,0,1,0,0,0
+866,Female,Cognitive Science,5,4,1,0,1,0,0,0
+867,Female,Cognitive Science,3,1,0,0,0,0,1,0
+868,Male,Cognitive Science,4,4,0,0,0,0,1,0
+869,Female,Cognitive Science,5,5,0,0,1,0,0,0
+870,Female,Cognitive Science,10,10,0,0,1,0,0,0
+871,Male,Cognitive Science,8,7,0,1,1,0,0,1
+872,Female,Cognitive Science,4,7,0,0,1,0,0,0
+873,Male,Cognitive Science,6,7,0,0,1,0,0,0
+874,Female,Cognitive Science,4,4,0,0,1,0,0,0
+875,Female,Cognitive Science,6,6,1,1,1,0,0,0
+876,Male,Mathematics,3,4,0,0,0,0,1,0
+877,Female,Cognitive Science,4,5,0,0,1,0,1,0
+878,Male,Computer Science and Engineering,5,3,0,0,1,0,0,0
+879,Male,Cognitive Science,4,7,0,0,1,0,1,0
+881,Male,Cognitive Science,4,6,0,0,0,0,1,0
+882,Female,Computer Science and Engineering,7,6,1,0,1,0,0,0
+883,Male,Computer Science and Engineering,7,5,1,1,1,0,0,0
+884,Male,Data Science,8,7,0,1,1,1,0,0
+885,Male,Mathematics,5,3,0,0,0,0,1,1
+886,Male,Data Science,9,3,0,0,1,0,0,0
+887,Female,Cognitive Science,2,4,0,1,0,0,0,0
